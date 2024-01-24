@@ -1,4 +1,4 @@
-#Zimo Yang
+# Zimo Yang
 
 About: Zimo Yang is a student at [St. Andrew's College](www.sac.on.ca), located just outside of Toronto. He is interested in Computer Engineering with a passion for exploring how technology can solve real-world problems. 
 In his spare time, Zimo enjoys learning new coding languages and developing his own apps and programs. He finds the field of computer science endlessly fascinating and is always eager to learn more.
